@@ -9,7 +9,7 @@ Let's break this definition into smaller parts:
   - **Sensors** - Environments have information and provide feedback. AI Agents use sensors to gather and interpret this information about the current state of the environment. In the Travel Booking Agent example, the travel booking system can provide information such as hotel availability or flight prices.
   - **Actuators** - Once the AI Agent receives the current state of the environment, For the current task the agent determines what action to perform to change the environment. For the travel booking agent, it might be to book an available room for the user.
 
-![What Are AI Agents?](./images/what-are-ai-agents.png?WT.mc_id=academic-105485-koreyst)
+![What Are AI Agents?]
 
 **Large Language Models** - The concept of agents existed before the creation of LLMs. The advantage of building AI Agents with LLMs is their ability to interpret human language and data. This ability enables LLMs to interpret environmental information and define a plan to change the environment.
 
@@ -39,7 +39,7 @@ In the earlier section, we used the Travel Agent use-case to explain how the dif
 
 Let's look at they types of use cases that AI Agents are best used for:
 
-![When to use AI Agents?](./images/when-to-use-ai-agents.png?WT.mc_id=academic-105485-koreyst)
+![When to use AI Agents?]
 
 
 - **Open-Ended Problems** - allowing the LLM to determine needed steps to complete a task because it can't always be hardcoded into a workflow.
