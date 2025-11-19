@@ -1,9 +1,5 @@
 # Metacognition in AI Agents
 
-## Introduction
-
-Welcome to the lesson on metacognition in AI agents! This chapter is designed for beginners who are curious about how AI agents can think about their own thinking processes. By the end of this lesson, you'll understand key concepts and be equipped with practical examples to apply metacognition in AI agent design.
-
 ## Learning Goals
 
 After completing this lesson, you'll be able to:
